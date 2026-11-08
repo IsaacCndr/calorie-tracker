@@ -22,3 +22,4 @@ Zero external dependencies, zero backend required, zero CSS variables, zero Tail
 ## 🚀 Getting Started
 
 Simply open `index.html` in any modern web browser. No server setup or installation required!
+
